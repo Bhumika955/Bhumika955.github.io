@@ -1,0 +1,119 @@
+ * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f7f9fc;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #111827;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      animation: fadeIn 1.5s ease-in-out;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #a9b2bb;
+    }
+
+    section {
+      padding: 4rem 2rem;
+    }
+
+    .about, .projects, .contact {
+      max-width: 900px;
+      margin: auto;
+       animation: fadeIn 1.5s ease-in-out;
+    }
+    .about{
+        height:50vh;
+        width:100vw;
+        position:relative;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #1f2937;
+      position: relative;
+    }
+    .about p{
+        font-weight: 400;
+        color: #151515;
+        font-size: 18px;
+    }
+
+    h2::after {
+      content: '';
+      position: absolute;
+      bottom: -8px;
+      left: 0;
+      width: 60px;
+      height: 4px;
+      background: #3b82f6;
+      border-radius: 2px;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+
+    .project-card {
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .project-card:hover {
+      transform: scale(1.03);
+    }
+
+    .project-card img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+    }
+
+    .project-card h3 {
+      font-size: 1.25rem;
+      padding: 1rem;
+      color: #111827;
+    }
+
+    .project-card p {
+      padding: 0 1rem 1rem;
+      color: #6b7280;
+    }
+
+    footer {
+      background: #111827;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    h4{
+        font-weight: 500;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
