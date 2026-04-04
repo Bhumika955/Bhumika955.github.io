@@ -8,11 +8,11 @@ const projects = [
     featured: true,
   },
   {
-    name: "Finance Dashboard",
-    desc: "A comprehensive finance tracking dashboard with real-time data visualization and expense management built with TypeScript.",
-    tags: ["TypeScript", "Next.js", "Tailwind CSS"],
-    color: "green",
-    link: "https://github.com/Bhumika955/Finance-dashboard-system",
+    name: "Theme Changer",
+    desc: "A dynamic theme switcher that allows users to switch between multiple color themes with smooth transitions.",
+    tags: ["JavaScript", "HTML5", "CSS3"],
+    color: "orange",
+    link: "https://github.com/Bhumika955/theme-changer",
     featured: false,
   },
   {
