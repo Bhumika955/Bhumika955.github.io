@@ -27,7 +27,7 @@ const projects = [
     name: "Photo Gallery",
     desc: "A beautiful responsive photo gallery with smooth animations and filtering capabilities.",
     tags: ["JavaScript", "HTML5", "CSS3"],
-    color: "orange",
+    color: "purple",
     link: "https://github.com/Bhumika955/photo-gallery",
     featured: false,
   },
