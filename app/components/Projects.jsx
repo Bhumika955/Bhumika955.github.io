@@ -16,11 +16,11 @@ const projects = [
     featured: false,
   },
   {
-    name: "Doctor Search",
-    desc: "Doctor discovery platform where users can search and filter doctors by specialty and location with appointment booking.",
-    tags: ["TypeScript", "React.js", "Tailwind CSS"],
-    color: "purple",
-    link: "https://github.com/Bhumika955/doctor-search-website",
+    name: "Password Generator",
+    desc: "A secure random password generator with customizable length and character options. Built with vanilla JavaScript.",
+    tags: ["JavaScript", "HTML5", "CSS3"],
+    color: "green",
+    link: "https://github.com/Bhumika955/password-generator",
     featured: false,
   },
   {
