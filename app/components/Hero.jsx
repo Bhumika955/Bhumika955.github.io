@@ -62,8 +62,8 @@ through clean code and thoughtful engineering.
         {/* Stats */}
         <div className="flex gap-12 justify-center">
           <div className="text-center">
-            <div className="text-2xl font-semibold text-gray-900">1+</div>
-            <div className="text-xs text-gray-400 mt-1">Year Experience</div>
+            <div className="text-2xl font-semibold text-gray-900">3+</div>
+            <div className="text-xs text-gray-400 mt-1">Months Experience</div>
           </div>
           <div className="text-center">
             <div className="text-2xl font-semibold text-gray-900">4+</div>

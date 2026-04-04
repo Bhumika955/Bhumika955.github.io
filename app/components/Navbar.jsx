@@ -16,14 +16,12 @@ export default function Navbar() {
       </div>
 
       <div className="flex items-center gap-3">
-        <div className="hidden sm:flex items-center gap-2 bg-green-50 text-green-700 text-xs px-3 py-1.5 rounded-full">
-          <div className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse"></div>
-          Open to Work
-        </div>
+        
         <a href="#contact" className="bg-blue-600 text-white text-xs px-4 py-2 rounded-lg hover:bg-blue-700 transition-all">
           Hire Me
         </a>
-      </div>
+        </div>
+     
 
     </nav>
   );
