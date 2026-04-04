@@ -20,7 +20,7 @@ BTech CSE final year student from Bhopal, building AI-powered web applications w
 ## Projects Featured
 - [TalentAI-Nexus](https://github.com/Bhumika955/TalentAI-Nexus) — AI powered career platform
 - [Theme Changer](https://github.com/Bhumika955/theme-changer) — Dynamic theme switcher
-- [Doctor Search](https://github.com/Bhumika955/doctor-search-website) — Doctor discovery platform
+- [Password Generator](https://github.com/Bhumika955/password-generator) — Secure password generator
 - [Photo Gallery](https://github.com/Bhumika955/photo-gallery) — Responsive photo gallery with animations
 
 ## Run Locally
