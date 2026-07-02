@@ -33,7 +33,7 @@ through clean code and thoughtful engineering.
 
         {/* Location */}
         <p className="text-gray-400 text-sm mb-8">
-          Bhopal, Madhya Pradesh · CGPA 8.31 · 2026 Passout
+          Bhopal, Madhya Pradesh · CGPA 8.33 · 2026 Passout
         </p>
 
         {/* Buttons */}
@@ -70,7 +70,7 @@ through clean code and thoughtful engineering.
             <div className="text-xs text-gray-400 mt-1">Projects Built</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl font-semibold text-gray-900">8.31</div>
+            <div className="text-2xl font-semibold text-gray-900">8.33</div>
             <div className="text-xs text-gray-400 mt-1">CGPA</div>
           </div>
         </div>
